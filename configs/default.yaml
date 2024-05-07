@@ -1,0 +1,10 @@
+inputFiles:
+  - ./templates/default.md
+outputFiles:
+  - '-'
+# execPipe: true
+# postExec:
+#   - ./scripts/convert_to_pdf.sh 
+datasources:
+  data: 
+    url: ./data/example.json

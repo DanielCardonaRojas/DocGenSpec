@@ -1,0 +1,30 @@
+{
+    "invoice_number": 0,
+    "personal_info": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "id_number": ""
+    },
+    "company_info": {
+        "name": "",
+        "email": "",
+        "id": "",
+        "address": ""
+    },
+    "payment_info": {
+        "account_holder": "",
+        "bank_name": "",
+        "account_number": "",
+        "account_type": "Savings",
+        "swift_id": ""
+    },
+    "invoice_items": [
+        {
+            "description": "Development services",
+            "quantity": 10,
+            "rate": 25
+        }
+    ]
+}
